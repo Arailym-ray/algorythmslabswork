@@ -10,4 +10,4 @@ def words(n, str):
         if len(x) > n:
             length.append(x)
     return length	
-print(words(5, "Это обычная строка, в которой много слов"))
+print(words(6, "Сегодня у нас практические работы по модулю"))
